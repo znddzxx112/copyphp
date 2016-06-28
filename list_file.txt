@@ -1,0 +1,4 @@
+static\cloud\admin\images/dialog-error.png
+static\cloud\admin\images/dialog-success.png
+static\cloud\admin\images/dialog-warning.png
+static\cloud\admin\images/style.css
